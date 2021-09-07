@@ -3,7 +3,7 @@
     <title>Siig Consult</title>
     <link href="https://ksiig.github.io/test-site/feed.xml" rel="self" />
     <link href="https://ksiig.github.io/test-site" />
-    <updated>2021-07-05T09:37:22+02:00</updated>
+    <updated>2021-09-07T21:41:56+02:00</updated>
     <author>
         <name>Kasper Siig</name>
     </author>
@@ -17,17 +17,17 @@
         <link href="https://ksiig.github.io/test-site/test-post.html"/>
         <id>https://ksiig.github.io/test-site/test-post.html</id>
 
-        <updated>2021-07-05T09:37:22+02:00</updated>
+        <updated>2021-09-07T21:41:56+02:00</updated>
             <summary>
                 <![CDATA[
-                    This is just a test post I hope it works fine Looks like it does 
+                    This is just a test post I hope it works fine Looks like it doesdfggsdfgdfgsdfgs 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h1 id="this-is-just-a-test-post">This is just a test post</h1>
 <p>I hope it works fine</p>
-<h2 id="looks-like-it-does">Looks like it does</h2>
+<h2 id="looks-like-it-doesdfggsdfgdfgsdfgs">Looks like it doesdfggsdfgdfgsdfgs</h2>
 
             ]]>
         </content>
