@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Siig Consult",
+    "description": "",
+    "home_page_url": "https://ksiig.github.io/test-site",
+    "feed_url": "https://ksiig.github.io/test-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kasper Siig"
+    },
+    "items": [
+        {
+            "id": "https://ksiig.github.io/test-site/test-post.html",
+            "url": "https://ksiig.github.io/test-site/test-post.html",
+            "title": "Test Post",
+            "summary": "This is just a test post I hope it works fine Looks like it does ",
+            "content_html": "<h1 id=\"this-is-just-a-test-post\">This is just a test post</h1>\n<p>I hope it works fine</p>\n<h2 id=\"looks-like-it-does\">Looks like it does</h2>\n",
+            "author": {
+                "name": "Kasper Siig"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-05T09:37:22+02:00",
+            "date_modified": "2021-07-05T09:37:22+02:00"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Siig Consult</title>
+    <link href="https://ksiig.github.io/test-site/feed.xml" rel="self" />
+    <link href="https://ksiig.github.io/test-site" />
+    <updated>2021-07-05T09:37:22+02:00</updated>
+    <author>
+        <name>Kasper Siig</name>
+    </author>
+    <id>https://ksiig.github.io/test-site</id>
+
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>Kasper Siig</name>
+        </author>
+        <link href="https://ksiig.github.io/test-site/test-post.html"/>
+        <id>https://ksiig.github.io/test-site/test-post.html</id>
+
+        <updated>2021-07-05T09:37:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This is just a test post I hope it works fine Looks like it does 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="this-is-just-a-test-post">This is just a test post</h1>
+<p>I hope it works fine</p>
+<h2 id="looks-like-it-does">Looks like it does</h2>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
